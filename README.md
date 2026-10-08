@@ -1,4 +1,4 @@
-# 🚀 SemanticRouter API
+# 🚀 Semantic Path
 
 > **High-Performance, Cost-Optimizing LLM Proxy Gateway for Hacktoberfest / Hackday**
 
